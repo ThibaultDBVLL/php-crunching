@@ -1,4 +1,4 @@
-# Exos 
+# Exos
 
 ## Dictionnaire
 
